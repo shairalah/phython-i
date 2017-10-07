@@ -1,0 +1,2 @@
+# phython-i
+myhobby-intelligence
